@@ -11,4 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+    //REQ 01
+    //write code to demonstrate that you are working with Point2D
 }
