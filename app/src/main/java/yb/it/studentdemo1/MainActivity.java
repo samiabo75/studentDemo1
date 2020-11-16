@@ -14,4 +14,14 @@ public class MainActivity extends AppCompatActivity {
 
     //REQ 01
     //write code to demonstrate that you are working with Point2D
+
+
+    public void  doit()
+    {
+        int x,y;
+        x=8;
+        y=9;
+
+
+    }
 }
